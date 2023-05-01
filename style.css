@@ -1,0 +1,40 @@
+*{
+    color: white;
+}
+body{
+    background-color: rgb(247, 237, 219);
+}
+.container{
+    width: 300px;
+    background-color: #0d5c63;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 10px;
+    height: 200px;
+}
+button{
+margin-top: 30px;
+margin-left: 30px;
+ background-color: orange; 
+padding: 5px;                  
+}
+h2{
+   color: orange;
+   
+   text-align: center;
+
+}
+p{
+    color: orange;
+    margin-left: 10px;
+    text-align: center;
+}
+.Age{
+    margin-left: 10px;
+}
+i{
+    color: rgb(27, 185, 224);
+   text-decoration:solid;
+  
+
+}
